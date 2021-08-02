@@ -70,6 +70,7 @@ public class Restaurant {
     public String getName() {
         return name;
     }
+    //PART 3
     //ORDER Total
     public int getOrderTotal(List<Item> item){
         int orderTotal = 0;

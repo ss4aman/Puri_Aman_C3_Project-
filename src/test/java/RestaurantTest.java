@@ -63,7 +63,7 @@ class RestaurantTest {
                 ()->restaurant.removeFromMenu("French fries"));
     }
     //<<<<<<<<<<<<<<<<<<<<<<<MENU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
+    //PART 3
     //ORDER Total Testing
     List<Item> selectedItems = new ArrayList<Item>();
 
